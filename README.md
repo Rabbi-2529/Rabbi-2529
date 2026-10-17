@@ -1,8 +1,3 @@
-I found why the banner wasn't showing. The `&` in "Django & Laravel" gets copied into the banner image unescaped. That makes the image an invalid SVG, and GitHub won't display an invalid SVG. I replaced it with a `•` and checked that the new banner is valid. The typing animation keeps its `&` because that service escapes it properly; I checked that too.
-
-Your email is now **fazlerabbi.igl@gmail.com** in both places it appears: the About Me line and the Email badge.
-
-```markdown
 <!-- Header banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:FF2D20&height=200&section=header&text=Fazle%20Rabbi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Django%20%E2%80%A2%20Laravel&descAlignY=58&descSize=18" alt="Fazle Rabbi banner" />
@@ -98,8 +93,3 @@ Your email is now **fazlerabbi.igl@gmail.com** in both places it appears: the Ab
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:0e75b6&height=100&section=footer" alt="footer" />
 </p>
-```
-
-If the banner still doesn't show after you commit, GitHub is probably showing an old cached copy of the image. Wait a few minutes and do a hard refresh with **Ctrl+F5**.
-
-The YouTube badge still needs your real channel URL in place of `@YOUR_CHANNEL`, or you can delete that line.
