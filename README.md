@@ -12,7 +12,7 @@
 
 <!-- Quick badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rabbi-2529&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rabbi-2529.Rabbi-2529&left_text=Profile%20Views&left_color=%23555&right_color=%230e75b6" alt="Profile views" />
   <a href="https://github.com/Rabbi-2529?tab=followers"><img src="https://img.shields.io/github/followers/Rabbi-2529?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub followers" /></a>
 </p>
 
