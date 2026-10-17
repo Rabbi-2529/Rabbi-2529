@@ -1,6 +1,11 @@
+I found why the banner wasn't showing. The `&` in "Django & Laravel" gets copied into the banner image unescaped. That makes the image an invalid SVG, and GitHub won't display an invalid SVG. I replaced it with a `•` and checked that the new banner is valid. The typing animation keeps its `&` because that service escapes it properly; I checked that too.
+
+Your email is now **fazlerabbi.igl@gmail.com** in both places it appears: the About Me line and the Email badge.
+
+```markdown
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:FF2D20&height=200&section=header&text=Fazle%20Rabbi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Django%20%26%20Laravel&descAlignY=58&descSize=18" alt="Fazle Rabbi banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:FF2D20&height=200&section=header&text=Fazle%20Rabbi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Django%20%E2%80%A2%20Laravel&descAlignY=58&descSize=18" alt="Fazle Rabbi banner" />
 </p>
 
 <!-- Typing animation -->
@@ -26,7 +31,7 @@
 - 💡 Interested in ERP systems, REST APIs, database design, and IoT with Arduino
 - 💬 Ask me about **Django**, **Laravel**, or **database design**
 - 📂 All my projects live at [github.com/Rabbi-2529](https://github.com/Rabbi-2529?tab=repositories)
-- 📫 Reach me at **[fazle35-2529@diu.edu.bd](mailto:fazle35-2529@diu.edu.bd)**
+- 📫 Reach me at **[fazlerabbi.igl@gmail.com](mailto:fazlerabbi.igl@gmail.com)**
 
 ---
 
@@ -86,10 +91,15 @@
   <a href="https://www.facebook.com/profile.php?id=100009290005807" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/fazle_rabbi_sajal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:fazle35-2529@diu.edu.bd"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:fazlerabbi.igl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <!-- Footer wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:0e75b6&height=100&section=footer" alt="footer" />
 </p>
+```
+
+If the banner still doesn't show after you commit, GitHub is probably showing an old cached copy of the image. Wait a few minutes and do a hard refresh with **Ctrl+F5**.
+
+The YouTube badge still needs your real channel URL in place of `@YOUR_CHANNEL`, or you can delete that line.
