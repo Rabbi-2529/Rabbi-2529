@@ -1,12 +1,12 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:02569B&height=200&section=header&text=Fazle%20Rabbi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Flutter%20Enthusiast&descAlignY=58&descSize=18" alt="Fazle Rabbi banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:FF2D20&height=200&section=header&text=Fazle%20Rabbi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Django%20%26%20Laravel&descAlignY=58&descSize=18" alt="Fazle Rabbi banner" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/Rabbi-2529">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+cross-platform+apps+with+Flutter;Backend+with+Django+%26+Node.js;Turning+ideas+into+working+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+web+apps+with+Python+%26+Django;Crafting+robust+backends+with+PHP+%26+Laravel;Turning+business+needs+into+working+software" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,9 +21,10 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently building an **HRM & Inventory Management System** with ZKTeco attendance integration
-- 🌱 Currently learning **Flutter** and deepening my **Dart** skills
-- 💡 Interested in mobile development, backend systems, and IoT with Arduino
-- 💬 Ask me about **Flutter**, **Django**, or **database design**
+- 🐍 Building scalable web applications with **Python & Django**
+- 🐘 Developing clean, maintainable backends with **PHP & Laravel**
+- 💡 Interested in ERP systems, REST APIs, database design, and IoT with Arduino
+- 💬 Ask me about **Django**, **Laravel**, or **database design**
 - 📂 All my projects live at [github.com/Rabbi-2529](https://github.com/Rabbi-2529?tab=repositories)
 - 📫 Reach me at **[fazle35-2529@diu.edu.bd](mailto:fazle35-2529@diu.edu.bd)**
 
@@ -34,13 +35,13 @@
 **Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,python,java,js,c,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,js,c,html,css&theme=dark" alt="Languages" />
 </p>
 
-**Frameworks & Runtime**
+**Frameworks**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,django,nodejs&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=django,laravel&theme=dark" alt="Frameworks" />
 </p>
 
 **Databases**
@@ -90,5 +91,5 @@
 
 <!-- Footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:0e75b6&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:0e75b6&height=100&section=footer" alt="footer" />
 </p>
