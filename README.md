@@ -101,7 +101,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://nomadly.cloud" target="_blank"><b>☁️ Nomadly</b></a><br/>
-      <sub>Cloud-based SaaS platform</sub>
+      <sub>eSIM buy &amp; sell marketplace</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://pharmacy.thingbd.com" target="_blank"><b>💊 Pharmacy</b></a><br/>
