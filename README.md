@@ -75,6 +75,9 @@
   <a href="https://nomadly.cloud" target="_blank">
     <img src="https://img.shields.io/badge/☁️%20Nomadly-nomadly.cloud-0e75b6?style=for-the-badge&logoColor=white" alt="Nomadly" />
   </a>
+  <a href="https://pharmacy.thingbd.com" target="_blank">
+    <img src="https://img.shields.io/badge/💊%20Pharmacy-pharmacy.thingbd.com-0e75b6?style=for-the-badge&logoColor=white" alt="Pharmacy" />
+  </a>
   <a href="https://felnatech.com" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Felnatech-felnatech.com-FF2D20?style=for-the-badge&logoColor=white" alt="Felnatech" />
   </a>
@@ -101,11 +104,12 @@
       <sub>Cloud-based SaaS platform</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://felnatech.com" target="_blank"><b>🚀 Felnatech</b></a><br/>
-      <sub>Technology solutions &amp; services</sub>
+      <a href="https://pharmacy.thingbd.com" target="_blank"><b>💊 Pharmacy</b></a><br/>
+      <sub>Online pharmacy &amp; inventory management system</sub>
     </td>
     <td align="center" width="33%">
-      <sub>💼 <i>More live projects<br/>available on request</i></sub>
+      <a href="https://felnatech.com" target="_blank"><b>🚀 Felnatech</b></a><br/>
+      <sub>Technology solutions &amp; services</sub>
     </td>
   </tr>
 </table>
