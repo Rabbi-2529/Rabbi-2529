@@ -18,19 +18,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 Currently building an **HRM & Inventory Management System** with ZKTeco attendance integration
-- 🐍 Building scalable web applications with **Python & Django**
-- 🐘 Developing clean, maintainable backends with **PHP & Laravel**
-- 💡 Interested in ERP systems, REST APIs, database design, and IoT with Arduino
-- 💬 Ask me about **Django**, **Laravel**, or **database design**
-- 📂 All my projects live at [github.com/Rabbi-2529](https://github.com/Rabbi-2529?tab=repositories)
-- 📫 Reach me at **[fazlerabbi.igl@gmail.com](mailto:fazlerabbi.igl@gmail.com)**
+- **Currently building** an **HRM & Inventory Management System** with ZKTeco attendance integration
+- **Backend development** — scalable web applications with **Python & Django**
+- **Backend development** — clean, maintainable backends with **PHP & Laravel**
+- **Interests** — ERP systems, REST APIs, database design, and IoT with Arduino
+- **Ask me about** Django, Laravel, or database design
+- **Projects** — all my work lives at [github.com/Rabbi-2529](https://github.com/Rabbi-2529?tab=repositories)
+- **Contact** — [fazlerabbi.igl@gmail.com](mailto:fazlerabbi.igl@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 🌐 Production Work
+## Production Work
 
 <p align="center">
   <a href="https://sms.iglweb.com" target="_blank">
@@ -116,7 +116,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rabbi-2529&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub stats" />
@@ -135,7 +135,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fazle-rabbi-16b5b3175/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
