@@ -60,6 +60,58 @@
 
 ---
 
+## 🌐 Production Work
+
+<p align="center">
+  <a href="https://sms.iglweb.com" target="_blank">
+    <img src="https://img.shields.io/badge/📩%20SMS%20Platform-sms.iglweb.com-0e75b6?style=for-the-badge&logoColor=white" alt="SMS Platform" />
+  </a>
+  <a href="https://workforce.iglweb.com" target="_blank">
+    <img src="https://img.shields.io/badge/👥%20Workforce-workforce.iglweb.com-0e75b6?style=for-the-badge&logoColor=white" alt="Workforce" />
+  </a>
+  <a href="https://rzrautobot.com" target="_blank">
+    <img src="https://img.shields.io/badge/⚙️%20RZ%20Rautobot-rzrautobot.com-FF2D20?style=for-the-badge&logoColor=white" alt="RZ Rautobot" />
+  </a>
+  <a href="https://nomadly.cloud" target="_blank">
+    <img src="https://img.shields.io/badge/☁️%20Nomadly-nomadly.cloud-0e75b6?style=for-the-badge&logoColor=white" alt="Nomadly" />
+  </a>
+  <a href="https://felnatech.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Felnatech-felnatech.com-FF2D20?style=for-the-badge&logoColor=white" alt="Felnatech" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://sms.iglweb.com" target="_blank"><b>📩 SMS Platform</b></a><br/>
+      <sub>Bulk SMS &amp; messaging gateway with delivery tracking</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://workforce.iglweb.com" target="_blank"><b>👥 Workforce</b></a><br/>
+      <sub>HRM &amp; attendance management (ZKTeco integration)</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://rzrautobot.com" target="_blank"><b>⚙️ RZ Rautobot</b></a><br/>
+      <sub>Automation &amp; robotics platform</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://nomadly.cloud" target="_blank"><b>☁️ Nomadly</b></a><br/>
+      <sub>Cloud-based SaaS platform</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://felnatech.com" target="_blank"><b>🚀 Felnatech</b></a><br/>
+      <sub>Technology solutions &amp; services</sub>
+    </td>
+    <td align="center" width="33%">
+      <sub>💼 <i>More live projects<br/>available on request</i></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
